@@ -1,0 +1,10 @@
+#player {
+  background-color: #181818;
+  position: fixed;
+  bottom: 0;
+}
+
+#player-info img {
+  width: 60px;
+  height: 60px;
+}
